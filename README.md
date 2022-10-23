@@ -1,4 +1,4 @@
-# Vue Postgres Nodejs + Express Tutorial Project
+# Vue Postgres Nodejs + Express tutorial project
 
  This is a tutorial project I started to get aquainted with Vue and PostgreSQL.
  Tutorial source is: https://www.bezkoder.com/node-express-sequelize-postgresql/
