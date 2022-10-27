@@ -12,3 +12,6 @@ npm run serve
 ```
 npm start
 ```
+
+### Techniques used
+Client-side: Vue. Backend: Nodejs
